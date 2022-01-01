@@ -761,6 +761,7 @@ header {
 
 /* HEADER STARS */
 .header-menu-bar {
+  max-width: 100% !important;
   position: relative;
   z-index: 10;
 }
