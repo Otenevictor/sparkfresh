@@ -581,14 +581,14 @@ header {
 /*MOBILE MENU STARTS*/
 .mobile-menu-trigger {
   cursor: pointer;
-  margin-left: 20px;
+  /* margin-left: 20px; */
   display: none;
 }
 
 .mobile-menu-trigger span {
   height: 2px;
   display: block;
-  width: 35px;
+  /* width: 35px; */
   margin-bottom: 9px;
   background-color: #000;
   /* background-color:#FF9F0D; */
