@@ -1836,6 +1836,11 @@ div#offcanvasTop {
   padding: 120px 0;
   background: #090d25;
 }
+.img_size_control {
+  display: flex;
+  flex-direction: row !important; 
+  max-height: 300px !important;
+}
 
 .team-shape-1 {
   position: absolute;
